@@ -6,5 +6,5 @@
 
 | Leader | Member | Member
 | ------ | ------ | ------ |
-| @dong0one9659 | @aminseo1023 | @so1h0lyu
+| @dong0one | @aminseo1023 | @so1h0lyu
 | BoHyeon Kim | MinSeo Park | MinJu Kim
